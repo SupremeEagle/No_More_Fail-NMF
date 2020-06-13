@@ -17,6 +17,6 @@ This program is in developpement, for any issues or imformations send a message 
   - Become the new legend of Osu!
  
 # To do
-> Making the program search into your osu.db file to get all Maps and Profil informations easily
+Making the program search into your osu.db file to get all Maps and Profil informations easily.
 You can help me to improve NMF by my post on Osu!
-> https://osu.ppy.sh/community/forums/topics/1074228 <
+https://osu.ppy.sh/community/forums/topics/1074228
