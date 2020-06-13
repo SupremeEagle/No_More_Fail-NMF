@@ -7,7 +7,7 @@ If you are trap in your progress and can't improve anymore ...
 Or maybe just want to improve faster.
 NMF is right here, nothing can stop you now :3
 
-This program is in developpement, for any issues or imformations send a message in discord (SupremeEagle#1551), or directly form Osu! (TheSupremeEagle/rank ~=35000)
+This program is in developpement, for any issues or informations send a message in discord (SupremeEagle#1551), or directly form Osu! (TheSupremeEagle/rank ~=35000)
 
 # How to use ?
   - Download the NMF.zip file
