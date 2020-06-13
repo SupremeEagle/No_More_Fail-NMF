@@ -1,5 +1,5 @@
 # No More Fail [NMF]
-A better way to improve in Osu!
+A better way to improve on Osu!
 
 ![Image banner](https://user-images.githubusercontent.com/66701247/84575369-dbb0d200-adac-11ea-8366-52b0d910860d.PNG)
 
