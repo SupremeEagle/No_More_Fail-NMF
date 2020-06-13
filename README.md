@@ -4,7 +4,7 @@ A better way to improve in Osu!
 ![Image banner](https://user-images.githubusercontent.com/66701247/84575369-dbb0d200-adac-11ea-8366-52b0d910860d.PNG)
 
 # Information
-NMF is a better way to improve in Osu!, proposing you map with a fail calculation and challenge at YOUR level. If you are trap in your progress and can't improve anymore, or maybe just want to improve faster. This program is for you, it's right there, nothing can stop you now :3
+NMF is a way to improve better and faster on Osu!, proposing you map with a fail calculation and challenge at YOUR level. If you are trap in your progress and can't improve anymore, or maybe just want to improve faster. This program is for you, it's right there, nothing can stop you now :3
 
 This program is in developpement, for any issues or informations send a message in discord (SupremeEagle#1551), or directly form Osu! (TheSupremeEagle/rank ~=35000)
 
