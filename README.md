@@ -1,2 +1,2 @@
-# No_More_Fail-NMF
+# No More Fail [NMF]
 A better way to improve in Osu!
