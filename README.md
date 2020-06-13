@@ -2,7 +2,7 @@
 A better way to improve in Osu!
 
 # Information
-NMF is a better way to improve in Osu!, proposing you map with a fail calculation and challenge at YOUR level
+NMF is a better way to improve in Osu!, proposing you map with a fail calculation and challenge at YOUR level.
 If you are trap in your progress and can't improve anymore ...
 Or maybe just want to improve faster.
 NMF is right here, nothing can stop you now :3
