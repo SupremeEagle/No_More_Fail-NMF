@@ -17,5 +17,5 @@ This program is in developpement, for any issues or informations send a message 
  
 # To do
 Making the program search into your osu.db file to get all Maps and Profil informations easily.
-You can help me to improve NMF by my post on Osu!
+You can help me to improve NMF by my post on the Osu! website
 https://osu.ppy.sh/community/forums/topics/1074228
