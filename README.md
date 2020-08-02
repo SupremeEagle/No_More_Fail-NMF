@@ -14,7 +14,15 @@ This program is in developpement, for any issues send a message in discord (Supr
   - Open the new folder and read the file README!!!
   - Open NMF.exe
   - Become the new legend of Osu!
- 
+
+# Screenshots
+What the program look like:
+![Image banner](https://user-images.githubusercontent.com/66701247/89124188-61abe800-d4d5-11ea-887d-51e8e1f98d8c.PNG)
+
+What is inside the NMF.zip folder:
+![Image banner](https://user-images.githubusercontent.com/66701247/89124285-0a5a4780-d4d6-11ea-9aee-985a3fe35be1.PNG)
+
+
 # To do
 Making the program search into your osu.db file to get all Maps and Profil informations easily.
 You can help me to improve NMF by my post on the Osu! website
