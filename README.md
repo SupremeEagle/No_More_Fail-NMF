@@ -22,6 +22,13 @@ What the program look like:
 What is inside the NMF.zip folder:
 ![Image banner](https://user-images.githubusercontent.com/66701247/89124285-0a5a4780-d4d6-11ea-9aee-985a3fe35be1.PNG)
 
+How a profil in NMF look like:
+![Image banner](https://user-images.githubusercontent.com/66701247/89233906-f94f2a80-d5ea-11ea-9c2a-2e9e3ea22097.PNG)
+
+Few example of "challenge" that the program can propose you:
+![Exemple challenge](https://user-images.githubusercontent.com/66701247/89234058-58ad3a80-d5eb-11ea-991b-a0c623c0024c.PNG)
+![Exemple challenge 2](https://user-images.githubusercontent.com/66701247/89234087-6cf13780-d5eb-11ea-8f2d-2018ba3f1472.PNG)
+
 
 # To do
 Making the program search into your osu.db file to get all Maps and Profil informations easily.
