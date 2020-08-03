@@ -16,6 +16,8 @@ This program is in developpement, for any issues send a message in discord (Supr
   - Become the new legend of Osu!
 
 # Screenshots
+> Every screenshots are example, the result that you will have can be different by your profil and your average skill. <
+
 What the program look like:
 ![Image banner](https://user-images.githubusercontent.com/66701247/89124188-61abe800-d4d5-11ea-887d-51e8e1f98d8c.PNG)
 
@@ -25,7 +27,12 @@ What is inside the NMF.zip folder:
 How a profil in NMF look like:
 ![Image banner](https://user-images.githubusercontent.com/66701247/89233906-f94f2a80-d5ea-11ea-9c2a-2e9e3ea22097.PNG)
 
+How "saving" a map in NMF look like:
+![Exemple register](https://user-images.githubusercontent.com/66701247/89235008-a7f46a80-d5ed-11ea-9ff1-d05eee6beac1.PNG)
+![Exemple register 2](https://user-images.githubusercontent.com/66701247/89235059-cce8dd80-d5ed-11ea-9aa9-e7dcb9bbe26c.PNG)
+
 Few example of "challenge" that the program can propose you:
+![Exemple challenge 3](https://user-images.githubusercontent.com/66701247/89234893-521fc280-d5ed-11ea-83e5-0eea6f0f53fe.PNG)
 ![Exemple challenge](https://user-images.githubusercontent.com/66701247/89234058-58ad3a80-d5eb-11ea-991b-a0c623c0024c.PNG)
 ![Exemple challenge 2](https://user-images.githubusercontent.com/66701247/89234087-6cf13780-d5eb-11ea-8f2d-2018ba3f1472.PNG)
 
